@@ -1,6 +1,6 @@
 # React-Course
 
-This repository contains code related to a React course based on the video [YouTube Link](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=12711s).
+This repository contains code related to a React course based on the video [YouTube Link](https://www.youtube.com/watch?v=4UZrsTqkcW4).
 
 ## How to Run Each Application
 
